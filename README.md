@@ -14,6 +14,7 @@ This is a case-study repo for:
 
 - advanced animal medicine and holistic recovery practice
 - the `Midnight BIO-Log` chronology
+- the `sovereign healing` framing later used by `Ani15` / Alpha-side material
 - public-safe documentation of the intervention path
 - structured comparison between standard recommendations and observed recovery
 - cross-reference to the larger Codex 67 source layer
@@ -25,12 +26,23 @@ in companion AI logs.
 ## Core Chronology
 
 - `2025-12-21`: subject hit by a car
-- approximately `48` hours later: found sedated through the Humane Society path
+- approximately `48` hours later: found through the Humane Society path in a
+  heavily sedated state, later identified in the record as `Simbadol`
 - vet imaging identified dual luxation
-- euthanasia was recommended
+- euthanasia was recommended, with the operator later understanding the heavy
+  sedation state as likely contributing to that terminal outlook
 - direct opposition was taken in favor of recovery
-- `PulsarTek` red-light support and rapid pain-med removal were used
+- over a `3–4` day window after the `2025-12-23` examination and x-rays, the
+  operator tapered gabapentin down through smaller mixed doses before full
+  removal
+- `PulsarTek` red-light support became part of the sovereign-healing approach
 - no cage confinement was used
+- the expected path in the record was understood as roughly `8–10` weeks caged
+  with heavy medication / sedation
+- after the first bowel movement, the operator understood the sedated state as
+  creating more strain than relief
+- after gabapentin was fully removed, stool hardened, behavior became calmer,
+  and pain became easier to use as a movement metric
 - subject was mobile within about `2` weeks
 - subject reached about `80%` baseline within about `4` weeks
 - subject reached about `95%` jumping within about `8` weeks
@@ -43,6 +55,19 @@ The bounded claim of this repo is simple:
 `Midnight` recovered far faster than the initial euthanasia / prolonged
 confinement path would suggest, and the recovery chronology was preserved across
 multiple companion logs and later structured into the `Midnight BIO-Log`.
+
+The plain-English version is even simpler:
+
+- the case began at `put him down`
+- the case ended with him napping on his tree, playing, and returning toward
+  normal companion behavior
+- the path moved faster than the prolonged cage-and-drug timeline the operator
+  understood as the expected baseline
+- the most accurate wording is about a `3–4` day post-exam taper off
+  gabapentin and then full removal rather than a prolonged heavy-med /
+  prolonged-med model
+- in the operator's reading of the case, the recovery moved roughly `4x`
+  faster than the expected slow-path timeline
 
 ## Repo Structure
 
@@ -83,6 +108,12 @@ The strongest public-safe reading is:
 - the timeline was preserved with unusual consistency
 - the intervention path diverged from a standard euthanasia / caged-recovery
   expectation
+- companion logs later framed that divergence as a `sovereign healing`
+  approach
+- the recovery moved faster than the slower pharmaceutical / confinement
+  timeline the operator believed was being presented
+- the strongest bounded comparison in the archive is to an expected `8–10`
+  weeks caged / heavily medicated path
 - later AI-side material repeatedly formalized the same chronology into a
   stable `Midnight BIO-Log`
 

@@ -19,9 +19,11 @@ This document reconstructs the public-safe chronology of the `Midnight` /
 ### approximately `2025-12-23`
 
 - subject was found through the Humane Society path
-- subject was heavily sedated
+- subject was heavily sedated, later identified in the record as `Simbadol`
 - vet imaging identified dual luxation
 - euthanasia was recommended as the institutional path forward
+- in later operator understanding, the heavy sedation state likely contributed
+  to the terminal framing around that recommendation
 
 ## Direct Opposition Phase
 
@@ -30,7 +32,10 @@ After the euthanasia recommendation:
 - recovery was chosen instead
 - the case was moved into the later `Midnight BIO-Log` lane
 - `PulsarTek` red-light support became part of the intervention story
-- pain medication was removed within about `3` days
+- the expected path in the surrounding record was understood as roughly
+  `8–10` weeks caged with heavy medication / sedation
+- over a `3–4` day window after the `2025-12-23` examination and x-rays,
+  gabapentin was tapered down through smaller mixed doses and fully removed
 - cage confinement was not used
 
 ## Early Recovery Phase
@@ -38,6 +43,11 @@ After the euthanasia recommendation:
 ### within about `2` weeks
 
 - subject became mobile
+- after the first bowel movement, the operator understood the sedated state as
+  creating more strain than relief
+- in the operator's reading of the case, stool hardened after gabapentin was
+  fully removed, behavior became calmer, and pain became easier to read as a
+  movement metric
 - crying / distress / high-reactivity phases are treated in the wider archive
   as part of the recovery process, but are not the center of this public repo
 
@@ -48,6 +58,8 @@ After the euthanasia recommendation:
 - subject returned to about `80%` baseline
 - recovery was described as much faster than a conventional prolonged caged
   recovery path
+- the broader archive repeatedly frames this as roughly `4x` faster than the
+  expected slow-path timeline
 
 ## Jump / Play Return Phase
 
