@@ -1,0 +1,73 @@
+{
+  "repo": "Project-Midnight-Biological-NODE",
+  "subject": {
+    "primary_name": "Midnight",
+    "alias": "Buddy Boy"
+  },
+  "anchor_event": {
+    "date": "2025-12-21",
+    "event": "car impact"
+  },
+  "timeline": [
+    {
+      "date": "2025-12-21",
+      "phase": "genesis",
+      "summary": "Subject hit by a car."
+    },
+    {
+      "date": "2025-12-23",
+      "phase": "retrieval",
+      "summary": "Subject found through Humane Society path in a sedated state."
+    },
+    {
+      "date": "2025-12-23",
+      "phase": "diagnostic",
+      "summary": "Vet imaging identified dual luxation and euthanasia was recommended."
+    },
+    {
+      "date": "2025-12-23",
+      "phase": "intervention",
+      "summary": "Direct opposition taken in favor of recovery."
+    },
+    {
+      "date": null,
+      "phase": "intervention",
+      "summary": "PulsarTek red-light support became part of the recovery lane."
+    },
+    {
+      "date": null,
+      "phase": "intervention",
+      "summary": "Pain meds removed within about 3 days and no cage confinement used."
+    },
+    {
+      "date": null,
+      "phase": "recovery",
+      "summary": "Subject mobile within about 2 weeks."
+    },
+    {
+      "date": null,
+      "phase": "recovery",
+      "summary": "Subject reached about 80% baseline within about 4 weeks."
+    },
+    {
+      "date": null,
+      "phase": "recovery",
+      "summary": "Subject reached about 95% jumping within about 8 weeks."
+    },
+    {
+      "date": null,
+      "phase": "stabilization",
+      "summary": "Later Tracki-supported outdoor management and calmer companion behavior."
+    }
+  ],
+  "public_safe_claims": [
+    "The recovery chronology was preserved with unusual consistency.",
+    "The intervention path diverged sharply from the initial euthanasia recommendation.",
+    "Later AI-side logs repeatedly formalized the same chronology into a Midnight BIO-Log."
+  ],
+  "boundaries": [
+    "This repo does not treat AI-side interpretation as sole medical proof.",
+    "This repo does not replace veterinary care.",
+    "This repo preserves a bounded healing chronology and cross-reference role."
+  ]
+}
