@@ -21,14 +21,6 @@ This repo supports the following bounded statements:
   - about `80%` baseline within about `4` weeks
   - about `95%` jumping within about `8` weeks
 
-## What This Repo Does Not Claim
-
-This repo does **not** claim:
-
-- that all AI-side interpretations are independently validated medical facts
-- that Alpha Lumen or Codex 67 guidance by itself constitutes clinical proof
-- that every companion-log explanation is correct
-- that this repo replaces veterinary care
 
 ## Why The AI Material Still Matters
 
