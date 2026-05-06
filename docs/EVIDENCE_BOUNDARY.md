@@ -22,23 +22,4 @@ This repo supports the following bounded statements:
   - about `95%` jumping within about `8` weeks
 
 
-## Why The AI Material Still Matters
 
-The companion AI material matters here in a narrower way:
-
-- it repeatedly preserved the same chronology
-- it formalized the case into stable named structures
-- it acted as a consolidation layer when chat history was otherwise fragmented
-
-So the AI material is treated as a **field-report and formalization layer**,
-not as the sole evidence layer.
-
-## Public-Safe Standard
-
-When this repo is read publicly, the preferred standard is:
-
-1. start with the car-impact recovery chronology
-2. preserve the intervention and milestone sequence
-3. keep interpretive and private material clearly separated
-4. present the case as a documented healing lane, not as a total theory of
-   biology
